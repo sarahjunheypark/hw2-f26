@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, Verdana, sans-serif;
+    font-family: Arial, Verdana;
     background-color: #000000;
     color: #FFFFFF;
     margin: 20px 20px 0px 20px;
@@ -54,13 +54,17 @@ div {
     background-color: #0000FF;
     text-align: left;
     margin-right: 50px;
-    border-top: none;
+    border-bottom: none;
     border-left: none;
     border-right: 5px solid;
     border-top: 2px solid;
 }
 
 .blue p {
+    color: #C4C4C4;
+}
+
+.blue h2{
     color: #C4C4C4;
 }
 
@@ -79,7 +83,7 @@ div {
 }
 
 .green {
-    background-color: #00EB00;
+    background-color: #008500;
     text-align: left;
     margin-right: 50px;
     border-left: none;
